@@ -1,5 +1,4 @@
 #include "autocomplete.h"
-#include <iostream>
 
 TrieNode::TrieNode() {
     isEndOfWord = false;
